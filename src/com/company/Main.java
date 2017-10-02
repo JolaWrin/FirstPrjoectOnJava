@@ -11,7 +11,7 @@ class Notes {
     public Notes(){}
     
     public void run(){
-        String questionText = "What do you want from me?";
+        String questionText = "What do you want from me? Choose write or read";
         String userAnswer;
 
         while (true){
@@ -29,8 +29,9 @@ class Notes {
     private void write() {
         String keyWord;
         String valueWord;
-        System.out.println("What should I rememberKeyWord?");
+        System.out.println("What key word should I remember?");
         keyWord = scanner.nextLine();
+        System.out.println("What value word should I remember?");
         valueWord = scanner.nextLine();
         glossary.put(keyWord, valueWord);
     }
