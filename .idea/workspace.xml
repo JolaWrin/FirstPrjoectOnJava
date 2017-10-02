@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ab5365-cbda-437b-90e6-c3516be58bf3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myFirstProjectOnTerminal/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/myFirstProjectOnTerminal/com/company/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/myFirstProjectOnTerminal/com/company/Notes.class" afterPath="$PROJECT_DIR$/out/production/myFirstProjectOnTerminal/com/company/Notes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
